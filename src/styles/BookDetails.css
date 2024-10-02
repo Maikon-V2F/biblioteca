@@ -1,0 +1,18 @@
+.containerBook{
+    background-color: rgb(240, 240, 21
+    5);
+    border: 0.1vh solid black;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    list-style: none;
+    width: 50vw;
+}
+
+li{
+    list-style-type: none;
+}
+
+.label{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,29 @@
+.container{
+
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+}
+
+.containerBook{
+    margin: 2vh;
+    background-color: rgb(240, 240, 21
+    5);
+    border: 0.1vh solid black;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    list-style: none;
+    width: 20vw;
+    text-align: center;
+    
+}
+
+.listBooks{
+    display: flex
+    
+}
+
+h1{
+    font-size: 2.2vw;
+}
