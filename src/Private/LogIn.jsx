@@ -1,6 +1,6 @@
 import { useState } from "react"; // importa hook useState
 import { Navigate, useNavigate, Link } from "react-router-dom"; // importa navegação
-import "../styles/LogIn.css"; // importa o CSS para o componente de login
+import "../styles/Login.css"; // importa o CSS para o componente de login
 import TextField from "@mui/material/TextField"; // importa campo de texto do Material-UI
 import Button from '@mui/material/Button'; // importa botão do Material-UI
 
